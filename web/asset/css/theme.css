@@ -1,0 +1,7 @@
+@font-face {
+     font-family: "WaffleRegular";
+     src: url(../font/WaffleRegular.otf);
+ }
+.top-navigation{
+    font-family: "WaffleRegular";
+}
